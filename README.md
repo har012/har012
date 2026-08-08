@@ -10,7 +10,7 @@
 
 <br>
 
-<a href="https://github.com/[YOUR_USERNAME]">
+<a href="https://github.com/har012">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=EF93C4&center=true&vCenter=true&width=700&lines=Software+Developer+%7C+AI+Enthusiast;Building+things+that+matter+%F0%9F%9A%80;Turning+ideas+into+real+products;Always+learning.+Always+building." alt="Typing SVG">
 </a>
 
@@ -18,15 +18,15 @@
 
 <!-- ==================== PROFILE BADGES ==================== -->
 
-<a href="https://github.com/[YOUR_USERNAME]?tab=followers">
+<a href="https://github.com/har012?tab=followers">
   <img src="https://img.shields.io/github/followers/[YOUR_USERNAME]?label=Followers&style=for-the-badge&color=EF93C4&labelColor=1a1a1a" alt="GitHub Followers">
 </a>
 &nbsp;
-<a href="https://github.com/[YOUR_USERNAME]?tab=repositories">
+<a href="https://github.com/har012?tab=repositories">
   <img src="https://img.shields.io/github/stars/[YOUR_USERNAME]?label=Stars&style=for-the-badge&color=F8BBD0&labelColor=1a1a1a" alt="GitHub Stars">
 </a>
 &nbsp;
-<img src="https://komarev.com/ghpvc/?username=[YOUR_USERNAME]&label=Profile%20Views&color=FF69B4&style=for-the-badge" alt="Profile Views">
+<img src="https://komarev.com/ghpvc/?username=har012&label=Profile%20Views&color=FF69B4&style=for-the-badge" alt="Profile Views">
 
 </div>
 
