@@ -19,11 +19,11 @@
 <!-- ==================== PROFILE BADGES ==================== -->
 
 <a href="https://github.com/har012?tab=followers">
-  <img src="https://img.shields.io/github/followers/[YOUR_USERNAME]?label=Followers&style=for-the-badge&color=EF93C4&labelColor=1a1a1a" alt="GitHub Followers">
+  <img src="https://img.shields.io/github/followers/har012?label=Followers&style=for-the-badge&color=EF93C4&labelColor=1a1a1a" alt="GitHub Followers">
 </a>
 &nbsp;
 <a href="https://github.com/har012?tab=repositories">
-  <img src="https://img.shields.io/github/stars/[YOUR_USERNAME]?label=Stars&style=for-the-badge&color=F8BBD0&labelColor=1a1a1a" alt="GitHub Stars">
+  <img src="https://img.shields.io/github/stars/har012?label=Stars&style=for-the-badge&color=F8BBD0&labelColor=1a1a1a" alt="GitHub Stars">
 </a>
 &nbsp;
 <img src="https://komarev.com/ghpvc/?username=har012&label=Profile%20Views&color=FF69B4&style=for-the-badge" alt="Profile Views">
@@ -40,9 +40,9 @@
 <tr>
 <td width="65%" valign="middle">
 
-### 👋 Hey, I'm [YOUR_NAME]
+### 👋 Hey, I'm Harshith R N
 
-I'm a **[YOUR_ROLE]** passionate about building meaningful software, exploring emerging technologies, and turning ideas into products.
+I'm a **Software Engineer** passionate about building meaningful software, exploring emerging technologies, and turning ideas into products.
 
 - 🔭 Currently working on **[CURRENT_PROJECT]**
 - 🌱 Currently learning **[CURRENTLY_LEARNING]**
@@ -64,7 +64,7 @@ I'm a **[YOUR_ROLE]** passionate about building meaningful software, exploring e
 
 <br>
 
-<img src="https://raw.githubusercontent.com/[YOUR_USERNAME]/[YOUR_USERNAME]/main/assets/profile.gif" width="260" alt="Profile Animation">
+<img src="https://raw.githubusercontent.com/har012/har012/main/assets/profile.gif" width="260" alt="Profile Animation">
 
 </td>
 </tr>
@@ -93,9 +93,9 @@ I'm a **[YOUR_ROLE]** passionate about building meaningful software, exploring e
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=EF93C4&icon_color=FF69B4&text_color=808080&bg_color=00000000" alt="GitHub Stats">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=har012&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=EF93C4&icon_color=FF69B4&text_color=808080&bg_color=00000000" alt="GitHub Stats">
   &nbsp;&nbsp;
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_USERNAME]&layout=compact&hide_border=true&langs_count=8&title_color=EF93C4&text_color=808080&bg_color=00000000" alt="Top Languages">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=har012&layout=compact&hide_border=true&langs_count=8&title_color=EF93C4&text_color=808080&bg_color=00000000" alt="Top Languages">
 </p>
 
 <br>
@@ -105,7 +105,7 @@ I'm a **[YOUR_ROLE]** passionate about building meaningful software, exploring e
 <h2 align="center">🔥 GitHub Streak</h2>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=[YOUR_USERNAME]&hide_border=true&background=00000000&ring=EF93C4&fire=FF69B4&currStreakLabel=EF93C4&sideLabels=EF93C4&currStreakNum=FF69B4&sideNums=FF69B4&dates=808080" alt="GitHub Streak">
+  <img src="https://streak-stats.demolab.com?user=har012&hide_border=true&background=00000000&ring=EF93C4&fire=FF69B4&currStreakLabel=EF93C4&sideLabels=EF93C4&currStreakNum=FF69B4&sideNums=FF69B4&dates=808080" alt="GitHub Streak">
 </p>
 
 <br>
@@ -115,7 +115,7 @@ I'm a **[YOUR_ROLE]** passionate about building meaningful software, exploring e
 <h2 align="center">📈 Contribution Activity</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=[YOUR_USERNAME]&bg_color=00000000&color=EF93C4&line=FF69B4&point=F8BBD0&area=true&hide_border=true&custom_title=My%20Contribution%20Graph" width="95%" alt="GitHub Activity Graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=har012&bg_color=00000000&color=EF93C4&line=FF69B4&point=F8BBD0&area=true&hide_border=true&custom_title=My%20Contribution%20Graph" width="95%" alt="GitHub Activity Graph">
 </p>
 
 <br>
@@ -125,7 +125,7 @@ I'm a **[YOUR_ROLE]** passionate about building meaningful software, exploring e
 <h2 align="center">🐍 Contribution Snake</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/[YOUR_USERNAME]/[YOUR_USERNAME]/output/github-contribution-grid-snake.svg" alt="Contribution Snake">
+  <img src="https://raw.githubusercontent.com/har012/har012/output/github-contribution-grid-snake.svg" alt="Contribution Snake">
 </p>
 
 <!--
