@@ -171,30 +171,6 @@ jobs:
 
 &nbsp;
 
-<a href="https://x.com/[YOUR_X_USERNAME]">
-  <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
-</a>
-
-&nbsp;
-
-<a href="https://instagram.com/[YOUR_INSTAGRAM_USERNAME]">
-  <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-</a>
-
-<br><br>
-
-<a href="https://www.tiktok.com/@[YOUR_TIKTOK_USERNAME]">
-  <img src="https://img.shields.io/badge/TikTok-Follow-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok">
-</a>
-
-&nbsp;
-
-<a href="https://www.youtube.com/@[YOUR_YOUTUBE_USERNAME]">
-  <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
-</a>
-
-&nbsp;
-
 <a href="mailto:[YOUR_EMAIL]">
   <img src="https://img.shields.io/badge/Email-Contact-EF93C4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
@@ -206,7 +182,7 @@ jobs:
 <!-- ==================== QUOTE ==================== -->
 
 <p align="center">
-  <i>"[YOUR_FAVORITE_QUOTE]"</i>
+  <i>"Build with Passion"</i>
 </p>
 
 <br>
@@ -219,6 +195,6 @@ jobs:
 
 <div align="center">
 
-### ✨ [YOUR_NAME] · [YOUR_TAGLINE]
+### ✨ Harshith R N · Build With Passion
 
 </div>
