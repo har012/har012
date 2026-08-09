@@ -48,7 +48,7 @@ I'm a **Software Engineer** passionate about building meaningful software, explo
 
 <td width="35%" align="center">
 
-<img src="https://github-readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=800&color=EF93C4&center=true&vCenter=true&width=300&height=100&lines=Code.;Create.;Build.;Repeat." alt="Coding Animation">
+<img src="https://github-readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=800&color=EF93C4&center=true&vCenter=true&width=300&height=100&lines=Code.;Create.;Build.;Repeat" alt="Coding Animation">
 
 <br>
 
