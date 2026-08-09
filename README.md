@@ -95,9 +95,3 @@ I'm a **Software Engineer** passionate about building meaningful software, explo
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,100:EF93C4&height=120&section=footer&text=Thanks%20for%20visiting!%20%F0%9F%91%8B&fontSize=24&fontColor=FFFFFF&fontAlignY=65&animation=twinkling" width="100%" alt="Footer">
 </p>
-
-<div align="center">
-
-### ✨ Harshith R N · Build With Passion
-
-</div>
