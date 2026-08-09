@@ -82,7 +82,7 @@ I'm a **Software Engineer** passionate about building meaningful software, explo
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/[YOUR_LINKEDIN_USERNAME]">
+<a href="https://www.linkedin.com/in/harshith-r-n-18baa2243">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
