@@ -44,16 +44,6 @@
 
 I'm a **Software Engineer** passionate about building meaningful software, exploring emerging technologies, and turning ideas into products.
 
-- 🔭 Currently working on **[CURRENT_PROJECT]**
-- 🌱 Currently learning **[CURRENTLY_LEARNING]**
-- 💡 Interested in **[INTEREST_1]**, **[INTEREST_2]** & **[INTEREST_3]**
-- 💻 I enjoy building **[WHAT_YOU_BUILD]**
-- 🚀 Goal: **[YOUR_GOAL]**
-- ⚡ Fun fact: **[FUN_FACT]**
-- 📍 Based in **[YOUR_LOCATION]**
-
-<br>
-
 > *"Building things that matter."* 🚀
 
 </td>
