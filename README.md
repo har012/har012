@@ -76,65 +76,6 @@ I'm a **Software Engineer** passionate about building meaningful software, explo
 
 <br>
 
-<!-- ==================== STREAK ==================== -->
-
-<h2 align="center">🔥 GitHub Streak</h2>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=har012&hide_border=true&background=00000000&ring=EF93C4&fire=FF69B4&currStreakLabel=EF93C4&sideLabels=EF93C4&currStreakNum=FF69B4&sideNums=FF69B4&dates=808080" alt="GitHub Streak">
-</p>
-
-<br>
-
-<!-- ==================== ACTIVITY GRAPH ==================== -->
-
-<h2 align="center">📈 Contribution Activity</h2>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=har012&bg_color=00000000&color=EF93C4&line=FF69B4&point=F8BBD0&area=true&hide_border=true&custom_title=My%20Contribution%20Graph" width="95%" alt="GitHub Activity Graph">
-</p>
-
-<br>
-
-<!-- ==================== CONTRIBUTION SNAKE ==================== -->
-
-<h2 align="center">🐍 Contribution Snake</h2>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/har012/har012/output/github-contribution-grid-snake.svg" alt="Contribution Snake">
-</p>
-
-<!--
-GitHub Action:
-.github/workflows/snake.yml
-
-name: Generate Contribution Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=%23FF69B4&color_dots=%23F8BBD0%2C%23EF93C4%2C%23FF69B4%2C%23F8BBD0%2C%23EF93C4
-
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          build_dir: dist
-        env:
-          GH_PAT: ${{ secrets.GITHUB_TOKEN }}
--->
-
-<br>
-
 <!-- ==================== CONNECT ==================== -->
 
 <h2 align="center">🌐 Let's Connect</h2>
@@ -145,7 +86,6 @@ jobs:
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
-&nbsp;
 
 <a href="mailto:[YOUR_EMAIL]">
   <img src="https://img.shields.io/badge/Email-Contact-EF93C4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
