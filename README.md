@@ -20,36 +20,6 @@
 
 <br>
 
-<!-- ==================== ABOUT ME ==================== -->
-
-<h2 align="center">💫 About Me</h2>
-
-<table align="center" width="90%">
-<tr>
-<td width="65%" valign="middle">
-
-### 👋 Hey, I'm Harshith R N
-
-I'm a **Software Engineer** passionate about building meaningful software, exploring emerging technologies, and turning ideas into products.
-
-</td>
-
-<td width="35%" align="center">
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=18&duration=2500&pause=800&color=EF93C4&center=true&vCenter=true&width=300&height=50&lines=Code.;Create.;Build.;Repeat" alt="Coding Animation" />
-</p>
-
-<br>
-
-<img src="https://raw.githubusercontent.com/har012/har012/main/assets/profile.gif" width="260" alt="Profile Animation">
-
-</td>
-</tr>
-</table>
-
-<br>
-
 <!-- ==================== TECH STACK ==================== -->
 
 <h2 align="center">🛠️ Tech Stack</h2>
