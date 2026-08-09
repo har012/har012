@@ -14,8 +14,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=EF93C4&center=true&vCenter=true&width=700&lines=Software+Developer+%7C+AI+Enthusiast;Building+things+that+matter+%F0%9F%9A%80;Turning+ideas+into+real+products;Always+learning.+Always+building." alt="Typing SVG">
 </a>
 
-<br><br>
-
 <!-- ==================== TECH STACK ==================== -->
 
 <h2 align="center">🛠️ Tech Stack</h2>
