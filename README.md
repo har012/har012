@@ -16,18 +16,6 @@
 
 <br><br>
 
-<!-- ==================== PROFILE BADGES ==================== -->
-
-<a href="https://github.com/har012?tab=followers">
-  <img src="https://img.shields.io/github/followers/har012?label=Followers&style=for-the-badge&color=EF93C4&labelColor=1a1a1a" alt="GitHub Followers">
-</a>
-&nbsp;
-<a href="https://github.com/har012?tab=repositories">
-  <img src="https://img.shields.io/github/stars/har012?label=Stars&style=for-the-badge&color=F8BBD0&labelColor=1a1a1a" alt="GitHub Stars">
-</a>
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=har012&label=Profile%20Views&color=FF69B4&style=for-the-badge" alt="Profile Views">
-
 </div>
 
 <br>
