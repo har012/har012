@@ -86,19 +86,6 @@ I'm a **Software Engineer** passionate about building meaningful software, explo
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
-
-<a href="mailto:[YOUR_EMAIL]">
-  <img src="https://img.shields.io/badge/Email-Contact-EF93C4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-</a>
-
-</p>
-
-<br>
-
-<!-- ==================== QUOTE ==================== -->
-
-<p align="center">
-  <i>"Build with Passion"</i>
 </p>
 
 <br>
