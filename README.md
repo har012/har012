@@ -44,8 +44,6 @@
 
 I'm a **Software Engineer** passionate about building meaningful software, exploring emerging technologies, and turning ideas into products.
 
-> *"Building things that matter."* 🚀
-
 </td>
 
 <td width="35%" align="center">
@@ -74,18 +72,6 @@ I'm a **Software Engineer** passionate about building meaningful software, explo
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=figma,postman,vercel,npm,pnpm,githubactions&perline=6" alt="Tools">
-</p>
-
-<br>
-
-<!-- ==================== GITHUB STATS ==================== -->
-
-<h2 align="center">📊 GitHub Stats</h2>
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=har012&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=EF93C4&icon_color=FF69B4&text_color=808080&bg_color=00000000" alt="GitHub Stats">
-  &nbsp;&nbsp;
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=har012&layout=compact&hide_border=true&langs_count=8&title_color=EF93C4&text_color=808080&bg_color=00000000" alt="Top Languages">
 </p>
 
 <br>
